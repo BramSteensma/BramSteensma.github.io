@@ -50,7 +50,7 @@ calendly_height = "700px"
 copyright = "Bram Steensma (Powered by Felipe Cordero's CareerCanvas theme)"
 
 
-resume_url_en = "/public/files/resume.pdf"
+resume_url_en = "/files/resume.pdf"
 resume_url_fr = ""
 resume_label = "View Resume"
 
