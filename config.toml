@@ -47,7 +47,7 @@ github_text = "github.com/BramSteensma"
 calendly_url = ""
 calendly_height = "700px"
 
-copyright = "Bram Steensma"
+copyright = "Bram Steensma (Powered by Felipe Cordero's CareerCanvas theme)"
 
 
 resume_url_en = "/files/resume.pdf"
