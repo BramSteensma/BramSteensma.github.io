@@ -1,0 +1,15 @@
+[[main]]
+name = "About"
+url = "/#about"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "/#contact"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "/blog/"
+weight = 60
+

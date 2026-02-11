@@ -1,0 +1,3 @@
+[params]
+  pexelsapikey = "your_pexels_api_key"
+  formspreeendpoint = "https://formspree.io/f/mnjbjlbl"
