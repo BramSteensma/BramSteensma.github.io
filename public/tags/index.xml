@@ -6,97 +6,48 @@
     <description>Recent content in Tags on Bram Steensma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web-Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bim</title>
-      <link>http://localhost:1313/tags/bim/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Construction-Technology</title>
-      <link>http://localhost:1313/tags/construction-technology/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/construction-technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Real-Time-Analysis</title>
-      <link>http://localhost:1313/tags/real-time-analysis/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/real-time-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Structural-Engineering</title>
-      <link>http://localhost:1313/tags/structural-engineering/</link>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/structural-engineering/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Blog</title>
       <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Careercanvas</title>
       <link>http://localhost:1313/tags/careercanvas/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/careercanvas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/tags/welcome/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/welcome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
@@ -104,6 +55,13 @@
       <link>http://localhost:1313/tags/beam-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/beam-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bim</title>
+      <link>http://localhost:1313/tags/bim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bim/</guid>
       <description></description>
     </item>
     <item>
@@ -118,6 +76,13 @@
       <link>http://localhost:1313/tags/concrete-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/concrete-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Construction-Technology</title>
+      <link>http://localhost:1313/tags/construction-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/construction-technology/</guid>
       <description></description>
     </item>
     <item>
@@ -149,10 +114,31 @@
       <description></description>
     </item>
     <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/tags/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Post-Processing</title>
       <link>http://localhost:1313/tags/post-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/post-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-Time-Analysis</title>
+      <link>http://localhost:1313/tags/real-time-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/real-time-analysis/</guid>
       <description></description>
     </item>
     <item>
@@ -205,6 +191,13 @@
       <description></description>
     </item>
     <item>
+      <title>Structural-Engineering</title>
+      <link>http://localhost:1313/tags/structural-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/structural-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Student-Services</title>
       <link>http://localhost:1313/tags/student-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -212,10 +205,24 @@
       <description></description>
     </item>
     <item>
+      <title>Theme</title>
+      <link>http://localhost:1313/tags/theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Walls</title>
       <link>http://localhost:1313/tags/walls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/walls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
       <description></description>
     </item>
   </channel>

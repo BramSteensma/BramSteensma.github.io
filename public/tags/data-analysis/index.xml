@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Bram Steensma</title>
-    <link>http://localhost:1313/tags/welcome/</link>
-    <description>Recent content in Welcome on Bram Steensma</description>
+    <title>Data Analysis on Bram Steensma</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Bram Steensma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog</title>
       <link>http://localhost:1313/blog/welcome-to-my-blog/</link>

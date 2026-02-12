@@ -6,14 +6,14 @@
     <description>Recent content in Blog on Bram Steensma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog</title>
       <link>http://localhost:1313/blog/welcome-to-my-blog/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/welcome-to-my-blog/</guid>
-      <description>&lt;p&gt;Welcome to my blog! I&amp;rsquo;m excited to share my journey of creating this website and the experiences that led me here. As a structural engineer with a passion for software development, I wanted a platform that could effectively showcase both my technical expertise and professional experience.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-this-website&#34;&gt;Why This Website?&lt;/h2&gt;&#xA;&lt;p&gt;After exploring various options, I chose to build this site using Hugo, a powerful static site generator, and created my own theme called CareerCanvas. This decision was driven by several factors:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to My Blog&#xA;I’m glad you’re here. This website marks an exciting new chapter for me as I transition from over a decade in IT support and customer service into the world of data analysis and AI. I recently started the Data Analysis and AI Specialist program at Eastern College, and one of our first projects was to build a personal website using Hugo.&#xA;I decided to build mine using the CareerCanvas theme by Felipe Cordero to give it a polished, professional feel that reflects where I’m headed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
