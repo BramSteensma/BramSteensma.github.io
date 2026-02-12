@@ -38,6 +38,7 @@
       "strong",
       "style",
       "textarea",
+      "time",
       "title",
       "ul"
     ],
@@ -110,7 +111,6 @@
       "fa-bars",
       "fa-chevron-right",
       "fa-envelope",
-      "fa-folder-open",
       "fa-github",
       "fa-graduation-cap",
       "fa-heart",
@@ -118,6 +118,7 @@
       "fa-language",
       "fa-linkedin-in",
       "fa-map-marker-alt",
+      "fa-project-diagram",
       "fa-times",
       "fa-toggle-off",
       "fa-toggle-on",
@@ -219,7 +220,6 @@
       "max-w-5xl",
       "max-w-7xl",
       "max-w-lg",
-      "max-w-md",
       "max-w-none",
       "mb-1",
       "mb-10",
@@ -340,7 +340,6 @@
       "text-text-muted",
       "text-text-primary",
       "text-text-secondary",
-      "text-text-tertiary",
       "text-third",
       "text-white",
       "text-xl",
@@ -405,6 +404,7 @@
       "iframe-test-app",
       "impact-on-construction",
       "installation-",
+      "join-me-on-this-journey",
       "key-features",
       "license-",
       "looking-forward",
@@ -424,12 +424,15 @@
       "the-innovation",
       "the-pyqt5-app-is-also-present-",
       "the-pyside6-app-is-also-present-",
+      "the-tech-stack",
       "this-program-allows-accurate-analysis-of-sections-of-composite-walls-of-any-geometry-based-on-current-regulations-ds-60-the-following-are-determined",
       "tools-i-use",
       "video-demonstration",
       "welcome-",
+      "what-to-expect",
       "what-youll-find-here",
-      "why-careercanvas"
+      "why-careercanvas",
+      "why-this-website"
     ]
   }
 }
