@@ -51,8 +51,8 @@ other = "Blog"
 [engineering]
 other = "Engineering"
 
-[contributions]
-other = "Contributions"
+[projects]
+other = "Projects"
 
 [technical]
 other = "Tech Stack"
@@ -109,7 +109,7 @@ other = "View Resume"
 other = "Download Resume"
 
 [keyAchievements]
-other = "Key Achievements"
+other = "Key Responsibilities"
 
 [demoImageAlt]
 other = "Demo Image"

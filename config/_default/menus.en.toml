@@ -4,12 +4,38 @@ url = "/#about"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "/#contact"
+name = "Skills"
+url = "/#skills"
 weight = 3
+
+[[main]]
+name = "Experience"
+url = "/#experience"
+weight = 4
+
+#[[main]]
+#name = "Tech Stack"
+#url = "/#technical"
+#weight = 5
+
+#[[main]]
+#name = "Engineering"
+#url = "/engineering/"
+#weight = 6
+#pre = "engineering"
+
+[[main]]
+name = "Projects"
+url = "/projects/"
+weight = 7
+pre = "contributions"
 
 [[main]]
 name = "Blog"
 url = "/blog/"
-weight = 60
+weight = 8
 
+[[main]]
+name = "Contact"
+url = "/#contact"
+weight = 9
