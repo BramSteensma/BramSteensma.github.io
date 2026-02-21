@@ -15,20 +15,20 @@
 
 <title>
   
-    Projects | Bram Steensma
+    When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis | Bram Steensma
   
 </title>
 
 
-<meta name="description" content="Explore my projects." />
+<meta name="description" content="This blog critically analyzes the ethical pitfalls of course evaluation surveys that promise anonymity but fail to deliver due to flawed system design" />
 <meta name="author" content="Bram Steensma" />
-<link rel="canonical" href="http://localhost:1313/projects/" />
+<link rel="canonical" href="http://localhost:1313/blog/when-anonymous-isnt-really-anonymous/" />
 
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Projects | Bram Steensma" />
-<meta property="og:description" content="Explore my projects." />
-<meta property="og:url" content="http://localhost:1313/projects/" />
+<meta property="og:title" content="When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis | Bram Steensma" />
+<meta property="og:description" content="This blog critically analyzes the ethical pitfalls of course evaluation surveys that promise anonymity but fail to deliver due to flawed system design" />
+<meta property="og:url" content="http://localhost:1313/blog/when-anonymous-isnt-really-anonymous/" />
 <meta property="og:image" content="http://localhost:1313/images/notme.png">
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -36,8 +36,8 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Projects | Bram Steensma" />
-<meta name="twitter:description" content="Explore my projects." />
+<meta name="twitter:title" content="When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis | Bram Steensma" />
+<meta name="twitter:description" content="This blog critically analyzes the ethical pitfalls of course evaluation surveys that promise anonymity but fail to deliver due to flawed system design" />
 <meta name="twitter:image" content="http://localhost:1313/images/notme.png" />
 
 
@@ -429,55 +429,127 @@
 
     <main class="flex-grow">
         
-<section class="pt-8 pb-12 bg-bg dark:bg-bg" data-animate>
+<section class="pt-8 pb-12 bg-bg dark:bg-bg">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    
-    
-    <div class="flex flex-col lg:flex-row gap-8 mb-12">
-      <div class="w-full lg:w-2/3">
-        <h1 class="text-3xl font-bold text-center mb-12 font-heading text-text-primary dark:text-text-primary">Projects</h1>
-        <div class="prose prose-lg markdown-content dark:prose-invert prose-gray">
-          <p>Welcome to my Projects section. Here you&rsquo;ll find current projects I am working on, and once that are completed.</p>
-<h2 id="current-projects">Current Projects</h2>
+    <div class="flex flex-col lg:flex-row gap-8">
+      
+      <div class="lg:w-2/3">
+        <h1 class="text-3xl font-bold text-center mb-12 font-heading text-text-primary dark:text-text-primary">When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis</h1>
+        
+        <div class="text-center text-text-secondary dark:text-text-secondary mb-8">
+          <time datetime="2026-02-19">February 19, 2026</time>
+        </div>
+        
+        <div class="prose max-w-none prose-lg markdown-content dark:prose-invert prose-gray [&_iframe]:min-h-[600px] [&_iframe]:w-full [&_img+em]:block [&_img+em]:text-center [&_img+em]:font-bold">
+          <p>Organizations depend on course feedback surveys to improve their training programs. This process seems straightforward: students take an “anonymous” survey, management reviews the results, and courses are updated based on feedback. But what happens when the promise of anonymity is undermined by the survey’s own design?</p>
+<p>Let’s examine a real-world scenario. In this organization, survey participants are assured their responses will remain anonymous. Yet, the structure of the survey reveals fundamental flaws that dissolve this promise. The implications reach beyond poor design—they erode trust, challenge consent, create data governance concerns, and put pressure on the ethical responsibilities of data professionals.
+This isn’t just a theoretical dilemma; it’s the type of ethical puzzle data analysts regularly face, where technical systems can quietly clash with core ethical principles.</p>
+<h2 id="the-ethical-red-flags-in-survey-design">The Ethical Red Flags in Survey Design</h2>
+<p>Several major concerns arise on close inspection of this course evaluation system, each threatening the process’s integrity and the trust of participants.</p>
 <ul>
 <li>
-<h3 id="coming-soon">COMING SOON</h3>
+<h4 id="the-authentication-trap">The Authentication Trap</h4>
+<p>The requirement for students to log in with a username and password directly contradicts the fundamental promise of anonymity. Even if no names are gathered in the body of the survey, authentication creates a digital trail, potentially linking responses to individuals. According to David Martens’s discussion on informed consent, this lack of alignment between what’s promised and what’s built means participants cannot give valid consent.</p>
+</li>
+<li>
+<h4 id="biased-question-design">Biased Question Design</h4>
+<p>The sample question—“The course met all of the course objectives”—steers respondents towards a positive answer, introducing bias into the data collection. Balanced, neutral wording is key for sound measurement. Leading questions compromise the data quality by encouraging specific responses and mask genuine problems that management should address.</p>
+</li>
+<li>
+<h4 id="lack-of-nuance">Lack of Nuance</h4>
+<p>Reducing complex student experiences to a single score, or focusing a question too narrowly misses vital context. For actionable improvement, feedback must be capable of capturing multiple perspectives and experiences.</p>
 </li>
 </ul>
+<h2 id="hidden-ethical-concerns">Hidden Ethical Concerns</h2>
+<p>Apart from these design flaws, several less visible but significant ethical issues may also exist.</p>
+<ul>
+<li>
+<h4 id="data-retention-and-access">Data Retention and Access</h4>
+<p>Unclear policies about how long survey data is kept or who accesses it lead to poor data governance. This opens doors to inappropriate access, misuse, or retention of data well beyond its intended purpose. If a breach occurs, authentication records could link supposedly anonymous answers back to individuals.</p>
+<p>Data minimization, emphasized by Martens, means only collecting and retaining information necessary for the stated aim—and no longer</p>
+</li>
+<li>
+<h4 id="power-imbalance-and-retaliation">Power Imbalance and Retaliation</h4>
+<p>Students or employees might reasonably fear being identified if their criticism is negative, especially when login is required. This creates a significant fairness issue, skewing data toward positive responses and silencing important criticism. As Martens argues, feedback collected under these fears is both unethical and unreliable.</p>
+</li>
+<li>
+<h4 id="re-identification-in-small-groups">Re-identification in Small Groups</h4>
+<p>When small groups (for example, five students) complete a survey, the risk of re-identification soars—even without explicit names. Combining survey responses with other data may make it possible to deduce who said what, undermining privacy. This issue is particularly acute in tightly knit or specialized cohorts.</p>
+</li>
+<li>
+<h4 id="consent-and-voluntariness">Consent and Voluntariness</h4>
+<p>Did participants really consent to this process? Was it explained clearly, and could they opt out without repercussions? Ethical participation requires that consent is both informed and voluntary. When declining the survey might be perceived negatively, free choice disappears.</p>
+</li>
+</ul>
+<h2 id="recommendations-to-executive-management">Recommendations to Executive Management</h2>
+<p>To correct these issues and restore true ethics to the process, systematic changes are required at both the technical and process levels.</p>
+<ul>
+<li>
+<h4 id="enable-real-anonymity">Enable Real Anonymity</h4>
+<p>Remove authentication requirements. Instead, distribute unique, single-use links for eligible participants, eliminating traceability while maintaining data integrity. Alternatively, deploy third-party survey tools that can decouple eligibility from identifiable answers.</p>
+</li>
+<li>
+<h4 id="improve-survey-content">Improve Survey Content</h4>
+<p>Redesign questions to avoid leading or ambiguous wording. Instead of “The instructor was knowledgeable,” use “How would you rate the instructor’s knowledge?” and offer open-ended comment options. Collect feedback about multiple aspects—content, delivery, resources—not just a single point.</p>
+</li>
+<li>
+<h4 id="define-and-enforce-data-governance">Define and Enforce Data Governance</h4>
+<p>Publish clear policies on data retention and access control. Explicitly state how long survey data will be kept, who can access it, and the specific purposes for which the data will be used. Technical protections, such as automatic purging and tightly controlled access, should back these promises</p>
+</li>
+<li>
+<h4 id="aggregate-responsibly">Aggregate Responsibly</h4>
+<p>Don’t report insights at too granular a level for small groups, which increases identification risk. Aggregate over larger time frames or across similar courses to reinforce anonymity, or supplement with non-attributable qualitative feedback.</p>
+</li>
+<li>
+<h4 id="honest-transparent-communication">Honest, Transparent Communication</h4>
+<p>Update the survey introduction to state exactly how the process works—including the use of logins, what is stored, and the limits of anonymity. Never overstate privacy protections or provide misleading assurances.</p>
+<p>Provide clear explanations of participant rights: can they withdraw, delete their answers, or request clarification on data retention? Empowering participants reduces ethical risk.</p>
+</li>
+</ul>
+<h2 id="navigating-executive-rejection">Navigating Executive Rejection</h2>
+<p>What if leaders ignore these recommendations? This is a common—yet stressful—situation for data professionals.</p>
+<ul>
+<li>
+<h4 id="document-your-recommendations">Document Your Recommendations</h4>
+<p>Record all issues identified and steps suggested. Written documentation provides evidence of due diligence and can be valuable if concerns surface later.</p>
+</li>
+<li>
+<h4 id="appeal-to-standards">Appeal to Standards</h4>
+<p>Reference professional codes of ethics, such as those by ACM or the Data Science Association. Bringing in external standards lends weight to your case and helps frame it in universally accepted terms.
+If your organization has an ethics or privacy contact, involve them. Broader buy-in can shift the conversation.</p>
+</li>
+<li>
+<h4 id="seek-compromise">Seek Compromise</h4>
+<p>If leadership won’t make sweeping changes, propose incremental improvements: revise question phrasing, state limits of anonymity, or add open comment boxes. While not a complete solution, small steps can still reduce potential harm.</p>
+</li>
+<li>
+<h4 id="set-professional-boundaries">Set Professional Boundaries</h4>
+<p>If ethical concerns are dismissed, consider how involved you’re willing to be. Perhaps you restrict your analysis to aggregate data, recuse yourself from misleading communications, or seek a new assignment.
+Above all, refuse to participate in activities that would directly mislead survey takers, such as announcing anonymity where it doesn’t exist.</p>
+</li>
+</ul>
+<h2 id="restoring-trust-with-ethical-practice">Restoring Trust with Ethical Practice</h2>
+<p>This scenario emphasizes that data ethics demands more than technical skill—it is grounded in trust, transparency, and respect for participants. Insecure or misleading survey processes discourage honest communication, yield poor decisions, and damage reputations.</p>
+<p>Ethical action may be difficult, especially under pressure, but it is essential for authentic, useful, and fair outcomes. A culture built on ethical data use is not a hindrance to improvement; it is essential for progress that genuinely empowers organizations and their people.</p>
 
         </div>
       </div>
+
       
       
-      <div class="hidden lg:block lg:w-1/3">
-        <div class="sticky top-8 max-h-[calc(100vh-4rem)] flex flex-col">
+      <div class="lg:w-1/3">
+        <div class="sticky top-24 max-h-[calc(100vh-8rem)] flex flex-col">
+          <h2 class="text-xl font-bold mb-4 text-text-primary dark:text-text-primary flex-shrink-0">Related Content</h2>
           <div class="space-y-3 pr-2 overflow-y-auto flex-1 sidebar-scroll">
+            
             
           </div>
         </div>
       </div>
-    </div>
-    
-
-    
-    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3">
       
     </div>
-    
-    
-    
-    <div class="text-center py-12">
-      <div class="bg-gradient-to-br from-bg-secondary to-bg-tertiary dark:from-bg-secondary dark:to-bg-tertiary rounded-xl p-8 max-w-md mx-auto">
-        <i class="fas fa-folder-open text-4xl text-text-tertiary dark:text-text-tertiary mb-4"></i>
-        <h3 class="text-lg font-semibold text-text-secondary dark:text-text-secondary mb-2">No items yet</h3>
-        <p class="text-text-tertiary dark:text-text-tertiary text-sm">Content will appear here once you add pages to this section.</p>
-      </div>
-    </div>
-    
   </div>
 </section>
-
-
 
     </main>
 

@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on Bram Steensma</title><link>https://BramSteensma.github.io/tags/welcome/</link><description>Recent content in Welcome on Bram Steensma</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://BramSteensma.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>https://BramSteensma.github.io/blog/welcome-to-my-blog/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>https://BramSteensma.github.io/blog/welcome-to-my-blog/</guid><description>&lt;p&gt;Welcome to My Blog
-I’m glad you’re here. This website marks an exciting new chapter for me as I transition from over a decade in IT support and customer service into the world of data analysis and AI. I recently started the Data Analysis and AI Specialist program at Eastern College, and one of our first projects was to build a personal website using Hugo.
-I decided to build mine using the CareerCanvas theme by Felipe Cordero to give it a polished, professional feel that reflects where I’m headed.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Bram Steensma</title>
+    <link>http://localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on Bram Steensma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>http://localhost:1313/blog/welcome-to-my-blog/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/welcome-to-my-blog/</guid>
+      <description>&lt;p&gt;Welcome to My Blog&#xA;I’m glad you’re here. This website marks an exciting new chapter for me as I transition from over a decade in IT support and customer service into the world of data analysis and AI. I recently started the Data Analysis and AI Specialist program at Eastern College, and one of our first projects was to build a personal website using Hugo.&#xA;I decided to build mine using the CareerCanvas theme by Felipe Cordero to give it a polished, professional feel that reflects where I’m headed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

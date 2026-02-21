@@ -1,16 +1,13 @@
 +++
-title = "Contributions"
-description = "Explore my contributions to education, community, and open-source projects."
+title = "Projects"
+description = "Explore my projects."
 type = "list"
 # menu = "main"
 weight = 51
 +++
 
-Welcome to my Contributions section. Here you'll find projects, tools, and open-source initiatives I've developed to support education, community, and the technical community.
+Welcome to my Projects section. Here you'll find current projects I am working on, and once that are completed.
 
 ## Current Projects
 
-- Scheduler Student Services
-- CareerCanvas Hugo Theme
-
-Browse through the projects below or use the tags to find specific contributions. 
+- ### COMING SOON
