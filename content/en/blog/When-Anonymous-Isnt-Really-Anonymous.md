@@ -1,7 +1,7 @@
 ---
 title: "When Anonymous Isn't Really Anonymous: A Data Ethics Crisis"
 date: 2026-02-19
-draft: false
+draft: true
 description: "This blog critically analyzes the ethical pitfalls of course evaluation surveys that promise anonymity but fail to deliver due to flawed system design"
 featured_image: "/images/anonymous.jpg"
 tags: ["Data Analysis", "Ethics"]
