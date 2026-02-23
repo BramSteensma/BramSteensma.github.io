@@ -6,15 +6,8 @@
     <description>Recent content on Bram Steensma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis</title>
-      <link>http://localhost:1313/blog/when-anonymous-isnt-really-anonymous/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/when-anonymous-isnt-really-anonymous/</guid>
-      <description>&lt;p&gt;Organizations depend on course feedback surveys to improve their training programs. This process seems straightforward: students take an “anonymous” survey, management reviews the results, and courses are updated based on feedback. But what happens when the promise of anonymity is undermined by the survey’s own design?&lt;/p&gt;&#xA;&lt;p&gt;Let’s examine a real-world scenario. In this organization, survey participants are assured their responses will remain anonymous. Yet, the structure of the survey reveals fundamental flaws that dissolve this promise. The implications reach beyond poor design—they erode trust, challenge consent, create data governance concerns, and put pressure on the ethical responsibilities of data professionals.&#xA;This isn’t just a theoretical dilemma; it’s the type of ethical puzzle data analysts regularly face, where technical systems can quietly clash with core ethical principles.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Welcome to My Blog</title>
       <link>http://localhost:1313/blog/welcome-to-my-blog/</link>
