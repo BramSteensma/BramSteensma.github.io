@@ -6,8 +6,15 @@
     <description>Recent content in Data Analysis on Bram Steensma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Policing the Future: When Algorithms Carry a Badge and Bias</title>
+      <link>http://localhost:1313/blog/policing-the-future/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/policing-the-future/</guid>
+      <description>&lt;p&gt;Artificial intelligence in law enforcement was sold with a powerful promise: the ability to stop crime before it happens. This proactive approach, shifting from reaction to prediction, presented an alluring vision of safer streets and optimized police resources. For years, tech companies championed predictive policing systems as the key to smarter, data-driven public safety.&#xA;However, as cities across the globe have discovered, the line between science fiction and reality is fraught with ethical peril. The deployment of these algorithms has become a crucial case study in the challenges of AI ethics. When we examine these systems through the lens of ethical AI frameworks, particularly the concepts outlined by Luciano Floridi, we see a fundamental conflict between computational logic and human justice. The real-world retreat from these technologies, most notably in cities like Los Angeles, signals a critical re-evaluation of what it means to police fairly in the digital age.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>When Anonymous Isn&#39;t Really Anonymous: A Data Ethics Crisis</title>
       <link>http://localhost:1313/blog/when-anonymous-isnt-really-anonymous/</link>
