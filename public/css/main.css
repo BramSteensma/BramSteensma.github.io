@@ -1706,6 +1706,7 @@ nav.fixed {
 
 .hero-button {
     display: inline-flex;
+    border: 2px solid rgb(44, 44, 44);
     align-items: center;
     justify-content: center;
     min-width: 140px;
